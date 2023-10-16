@@ -1,0 +1,11 @@
+{
+  "name": "markdown-to-html",
+  "version": "1.0.0",
+  "description": "A service to convert content written in markdown to html; for use in frameworks like NextJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranjal Dubey",
+  "license": "ISC"
+}
